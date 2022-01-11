@@ -36,7 +36,7 @@ Then add the gem to your Jekyll configuration.
 
 ## An important note
 
-**There is no Jekyll standard for multilingual sites** and many plugins will not work properly with this setup. Octopress and it's
+**There is no Jekyll standard for multilingual sites** and many plugins will not work properly with this setup. Octopress and its
 plugins are being designed to support multilingual features, but without a standard, some use-cases may be overlooked. If you have a
 problem with an Octopress plugin supporting your multilingual site, please file an issue and we'll do our best to address it.
 
